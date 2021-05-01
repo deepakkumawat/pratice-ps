@@ -121,22 +121,15 @@ public class TestMockInterviewContinuationExistsAssignment {
             return true;
 
         set.add(i+","+j);
-        if (isNextCharExists(m, i-1, j-1, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i-1, j, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i-1, j+1, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i, j-1, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i, j+1, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i+1, j-1, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i+1, j, str.substring(1), set))
-            return true;
-        if (isNextCharExists(m, i+1, j+1, str.substring(1), set))
-            return true;
+
+        for (int ri=-1; ri<2; ri++) {
+            for (int ci=-1; ci<2; ci++) {
+                if (ri==0 && ci==0) continue;
+                if (isNextCharExists(m, i+ri, j+ci, str.substring(1), set))
+                    return true;
+            }
+        }
+
         set.remove(i+","+j);
 
         return false;
