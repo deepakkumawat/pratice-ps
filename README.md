@@ -1,2 +1,2 @@
-# pratice-ps
-practice for problem solving
+# Competitive Programing Practice
+practice for problem-solving
