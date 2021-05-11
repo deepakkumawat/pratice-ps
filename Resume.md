@@ -58,5 +58,5 @@ files.
 | Master of Computer Applications (MCA) | Rajasthan Technical University | 07/2006 – 06/2009 |
 | Bachelor of Computer Application(BCA) | Rajasthan University | 07/2003 – 06/2006 |
 
-## 💁‍♂️ Hobies:
+## 🕺🏾 Hobies:
 🧩 Puzzle Solving, 💻 Programming, 🛫 Exploring distant lands, 🧘🏽‍♂️ Meditaion, 🏋️‍♂️ Exercise
