@@ -3,14 +3,12 @@
 
 ---
 ## 🛠️ Skills:
-```json
-{
-    "Basics/core": ["Clean code", "Design patterns", "Data Structure", "Microservices", "SOAP", "REST"],
-    "Technologies": ["Java", "Spring Boot", "Javascript", "NodeJS", "React", "Angular", "PL/SQL", "HTML", "CSS"],
-    "Databse/Repositories": ["Oracle", "MySql", "Postgres", "Redis", "GIT"],
-    "Deployments": ["Gradle", "Maven", "CI/CD", "Jenkins", "Docker", "AWS", "OpenShift", "CIAM", "APIC"],
-    "Tools": ["Jira", "Confluence", "Git"]
-}
+```yaml
+Clean code, Design patterns, Data Structure,  Microservices, SOAP, REST
+Java, Spring Boot, Javascript, NodeJS, React, Angular, PL/SQL, HTML, CSS
+Oracle, MySql, Postgres, Redis
+Gradle, Maven, CI/CD, Jenkins, Docker, AWS, OpenShift, CIAM, APIC
+Jira, Confluence, Git
 ```
 
 ## 🥷🏿 About me:
@@ -53,10 +51,10 @@ files.
 
 
 ## 👨🏽‍🎓 Education:
-|  |  |  |
-| - | - | - |
+
 | Master of Computer Applications (MCA) | Rajasthan Technical University | 07/2006 – 06/2009 |
-| Bachelor of Computer Application(BCA) | Rajasthan University | 07/2003 – 06/2006 |
+| - | - | - |
+| **Bachelor of Computer Application(BCA)** | **Rajasthan University** | **07/2003 – 06/2006** |
 
 ## 🕺🏾 Hobies:
 🧩 Puzzle Solving, 💻 Programming, 🛫 Exploring distant lands, 🧘🏽‍♂️ Meditaion, 🏋️‍♂️ Exercise
