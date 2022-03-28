@@ -20,8 +20,13 @@ Jira, Confluence, Git
 ## 👨‍💻 Work history:
 > | Nagarro Software | Staff Engineer | 07-2015 - present |
 > | - | - | - |
-> - Worked on client locations Abu Dhabi, Vienna
-> - Domains: Banking, Telecom, SAAS
+> - Worked on client locations Abu Dhabi, Vienna.
+> - Domains: Banking, Telecom, SAAS.
+> - Helping business/product owners in designing better solutions.
+> - Designing and developing new requirements.
+> - Working on tight deadlines and unclear requirements.
+> - Taking interviews, mentor new team members
+> - Actively participating in new technology adaptations.
 
 > | Genpact Headstrong | Lead Consultant | 12/2014 – 05/2015 |
 > | - | - | - |
