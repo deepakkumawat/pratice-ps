@@ -1,5 +1,5 @@
 # Deepak Kumawat
- ☎️ +91-9784557124, 📧 deepaksinghkumawat@gmail.com
+☎️ +91-9784557124, 📧 deepaksinghkumawat@gmail.com
 
 ---
 ## 🛠️ Skills:
@@ -30,21 +30,19 @@ Jira, Confluence, Git
 
 > | Genpact Headstrong | Lead Consultant | 12/2014 – 05/2015 |
 > | - | - | - |
-> - 
+> - Domain: BFSI
 > - 
 
 > | Yusata Infotech | Team Lead | 06/2011 - 12/2014 |
 > | - | - | - |
-> - 
+> - Domain: Manufacturing, Transportation and Logistics, SAAS
 > - 
 
 > | Tech Mahindra | Analyst Operation | 07/2010 - 06/2011 |
 > | - | - | - |
-> - Worked on telecom domain. Automate day-to-day activities with the use of SQL,
-PL/SQL, scheduling, corn tab, JAVA, C, C++ and batch
-files.
-> - Eliminate working in shifts
-> - Reduce monthly billing cycle processing time by 60%
+> - Worked on telecom domain. Automate day-to-day activities with the use of SQL, PL/SQL, scheduling, corn tab, JAVA, Struts, C, C++ and batch files.
+> - Eliminate working in shifts, Reduce monthly billing cycle processing time by 60%
+> - Got pat on the back award
 
 > | Yusata Infotech | Software Engineer | 03/2009 - 06/2010 |
 > | - | - | - |
