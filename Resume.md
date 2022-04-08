@@ -40,7 +40,10 @@ Jira, Confluence, Git
 > | Yusata Infotech | Team Lead | 06/2011 - 12/2014 |
 > | - | - | - |
 > - Domain: Manufacturing, Transportation and Logistics, SAAS
-> - 
+> - Foster collaboration and knowledge sharing between teams.
+> - Promote and guides cross-team initiatives to improve the system.
+> - Strive for reduction of complexity of both systems and processes, by finding simple, pragmatic solutions while maximizing impact
+
 
 > | Tech Mahindra | Analyst Operation | 07/2010 - 06/2011 |
 > | - | - | - |
