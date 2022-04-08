@@ -31,7 +31,11 @@ Jira, Confluence, Git
 > | Genpact Headstrong | Lead Consultant | 12/2014 – 05/2015 |
 > | - | - | - |
 > - Domain: BFSI
-> - 
+> - Design, write and deliver software as a solution to an end to end problem in your business domain in accordance with our engineering standards in small batches.
+> - Coach junior engineers through code reviews, pair programming, and tech talk sessions.
+> - Understand business domain and work with product as well as the business stakeholders to drive desired outcomes.
+> - Critically question and drive improvement of our processes and solutions.
+> - Reason about tradeoffs and evaluate new solutions to elevate team and tech organization
 
 > | Yusata Infotech | Team Lead | 06/2011 - 12/2014 |
 > | - | - | - |
