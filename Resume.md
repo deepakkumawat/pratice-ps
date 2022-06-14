@@ -18,7 +18,15 @@ Jira, Confluence, Git
 - Oracle Certified Professional, Java SE 6 Programmer
 
 ## 👨‍💻 Work history:
-> | Nagarro Software | Staff Engineer | 07-2015 - present |
+> | Maknet By Siam Makro | Backend Engineer | 04-2022 - Present |
+> | - | - | - |
+> - Domains: E-Commerce, Retail.
+> - Contribute in all phases of the development lifecycle.
+> - Perform and drive code, design, architecture discussions.
+> - Responsible for driving technology and best engineering practices in the cross functional team.
+> - Review Requirements Documents and develop implementation strategies that preserve the availability, performance, integrity, stability, and scalability of systems
+
+> | Nagarro Software | Staff Engineer | 07-2015 - 04-2022 |
 > | - | - | - |
 > - Worked on client locations in Abu Dhabi, Vienna.
 > - Domains: Banking, Telecom, SAAS.
@@ -56,9 +64,6 @@ Jira, Confluence, Git
 > - Worked on live SAAS product of Transportation and Logistics with assests tracking
 > - Worked on creation of virtual geo-fences and automatic trip and working hour calculation based on assets GPS reads
 > - Product makeover from frontend(css, html) to backend(DB, Third party integrations)
-
-## ⭐ Projects:
-
 
 ## 👨🏽‍🎓 Education:
 
